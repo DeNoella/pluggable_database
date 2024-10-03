@@ -14,6 +14,7 @@ A pluggable database named plsql2024 and the user  is created:
 
 
 ### Step 4
+#### A pluggable database is created
 ![4](https://github.com/user-attachments/assets/48673650-a12f-43f1-a8e4-3786c70817fd)
 
 ![4 (2)](https://github.com/user-attachments/assets/2bc779b4-1578-438c-b622-7b6dd25d64c7)
