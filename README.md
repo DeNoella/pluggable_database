@@ -28,11 +28,14 @@ A pluggable database named plsql2024 and the user  is created:
 
 ![5 (2)](https://github.com/user-attachments/assets/6d4538d2-58ca-4e2d-b257-603e6ccc9abe)
 
+### Task 2
 
 ### Step 6 
 ### A pluggable database to be deleted
 
 ![6](https://github.com/user-attachments/assets/37067b5a-7c99-42c5-933e-9aa4bce82964)
+
+### Task 3
 
 ### Step 7
 #### Configuration of Oracle Enterprise
