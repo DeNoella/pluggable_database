@@ -28,7 +28,7 @@ A pluggable database named plsql2024 and the user  is created:
 
 
 ### Step 6 
-A pluggable database to be deleted
+### A pluggable database to be deleted
 
 ![6](https://github.com/user-attachments/assets/37067b5a-7c99-42c5-933e-9aa4bce82964)
 
