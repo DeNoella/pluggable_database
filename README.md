@@ -17,6 +17,14 @@ A pluggable database named plsql2024 and the user  is created:
 
 ### Step 4
 #### A pluggable database is created
+'''sql
+SQL>  CREATE PLUGGABLE DATABASE plsql2024
+  2  FROM ORA19
+  3  FILE_NAME_CONVERT =('C:\USERS\NOELLA\DOCUMENTS\CD\ORCL\1281C227AB024395A49BDD7902D97413\DATAFILE\','C:\USERS\NOELLA\DOCUMENTS\CD\ORCL\1281C227AB024395A49BDD7902D97413\DATAFILE\plsql2024');
+
+Pluggable database created.
+
+'''
 ![4](https://github.com/user-attachments/assets/48673650-a12f-43f1-a8e4-3786c70817fd)
 
 ![4 (2)](https://github.com/user-attachments/assets/2bc779b4-1578-438c-b622-7b6dd25d64c7)
