@@ -38,6 +38,7 @@ A pluggable database to be deleted
 
 
 ### Step 8 
+#### A user is created
 ![Screenshot 2024-10-03 233234](https://github.com/user-attachments/assets/8c2916f9-8fa8-47a6-92f5-32fbc57c945f)
 
 
