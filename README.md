@@ -35,6 +35,8 @@ A pluggable database named plsql2024 and the user  is created:
 ### Step 7
 #### Configuration of Oracle Enterprise
 
+
+
 ![Screenshot 2024-10-03 232321](https://github.com/user-attachments/assets/22a54cd2-8431-4db6-9f9b-eaaa5a7b8792)
 
 
