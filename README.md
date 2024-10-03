@@ -31,18 +31,7 @@ A pluggable database to be deleted
 
 ![6](https://github.com/user-attachments/assets/37067b5a-7c99-42c5-933e-9aa4bce82964)
 
-
-
 ### Step 7
-![Screenshot 2024-10-03 233211](https://github.com/user-attachments/assets/661d4a04-939a-4fd9-943c-53c51569adf1)
-
-
-### Step 8 
-#### Pluggable database to be deleted
-![Screenshot 2024-10-03 233339](https://github.com/user-attachments/assets/9c32e4db-b824-471a-b0da-a0a1cbd7458d)
-
-
-### Step 9
 #### Configuration of Oracle Enterprise
 
 ![Screenshot 2024-10-03 232321](https://github.com/user-attachments/assets/22a54cd2-8431-4db6-9f9b-eaaa5a7b8792)
