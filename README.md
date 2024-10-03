@@ -3,7 +3,7 @@
 A pluggable database named plsql2024 and the user  is created: 
 
 ### Step 1
-![alt text](<Screenshot 2024-10-03 232903-1.png>) 
+![Screenshot 2024-10-03 232903](https://github.com/user-attachments/assets/34e608b1-d688-4558-be71-898450bca91c)
 
 ### Step 2
 ![alt text](<Screenshot 2024-10-03 232903-2.png>) 
