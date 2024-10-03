@@ -14,16 +14,22 @@ A pluggable database named plsql2024 and the user  is created:
 
 
 ### Step 4
-![Screenshot 2024-10-03 233043](https://github.com/user-attachments/assets/35ed415f-9f75-4b46-ab1a-8c18442ad9b9)
+![4](https://github.com/user-attachments/assets/48673650-a12f-43f1-a8e4-3786c70817fd)
+
+![4 (2)](https://github.com/user-attachments/assets/2bc779b4-1578-438c-b622-7b6dd25d64c7)
 
 
 ### Step 5
-![alt text](<Screenshot 2024-10-03 233119.png>)
+![5](https://github.com/user-attachments/assets/d1e1772a-31d7-4dca-b174-226a84788bf9)
+
+![5 (2)](https://github.com/user-attachments/assets/6d4538d2-58ca-4e2d-b257-603e6ccc9abe)
+
 
 ### Step 6 
-A user is created
+A pluggable database to be deleted
 
-![Screenshot 2024-10-03 233119](https://github.com/user-attachments/assets/78aa8f47-d884-4003-98a5-bb287f193d70)
+![6](https://github.com/user-attachments/assets/37067b5a-7c99-42c5-933e-9aa4bce82964)
+
 
 
 ### Step 7
