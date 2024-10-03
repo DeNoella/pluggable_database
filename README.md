@@ -1,5 +1,7 @@
 ### Task 1
 # Create a new pluggable database(PDB)
+A pluggable database (PDB) is a self-contained database that exists within a container database (CDB) in Oracle's multitenant architecture. Each PDB operates independently with its own data and user management, while sharing the underlying resources of the CDB. This design allows for efficient resource utilization, easy management, and scalability, making it ideal for hosting multiple applications or environments within a single database system.
+
 A pluggable database named plsql2024 and the user  is created: 
 
 ### Step 1
