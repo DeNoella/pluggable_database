@@ -43,12 +43,12 @@ A pluggable database named plsql2024 and the user  is created:
 
 ![Screenshot 2024-10-03 233955](https://github.com/user-attachments/assets/96f35840-5e8f-40bf-b2fd-1c066060f43e)
 
-![Screenshot 2024-10-03 232321](https://github.com/user-attachments/assets/70fec6f8-a3b9-470c-b9f7-736b45289dd4)
+![17](https://github.com/user-attachments/assets/4cc6a2d4-c8b6-46aa-bbf8-fd45e9ef830d)
 
 ![Screenshot 2024-10-03 232321](https://github.com/user-attachments/assets/22a54cd2-8431-4db6-9f9b-eaaa5a7b8792)
 
 
-#### Oracle sql developer dashboard showing the pluggable database
+#### Oracle sql developer dashboard showing the pluggable database 
 
 ![Screenshot 2024-10-04 000401](https://github.com/user-attachments/assets/459c9e46-10e7-4401-981a-13b71158b465)
 
